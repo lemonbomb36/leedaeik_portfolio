@@ -1,0 +1,9 @@
+/.vs
+/DerivedDataCache
+/Intermediate
+/Saved
+/pproject.sln
+/Plugins
+/Binaries
+*_BuiltData.uasset
+*.sln
